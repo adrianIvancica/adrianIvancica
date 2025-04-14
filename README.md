@@ -1,6 +1,6 @@
-## Hello, I'm Adrian, and here is my profile!
-Im an aspiring embedded engineer and have inspirations in hardware and software
-Graduated with a Bachelor of Science in Computer Engineering from the University of Miami
+## 	Hello, I'm Adrian, and here is my profile!
+Im an aspiring embedded engineer and have inspirations in hardware and software<br/>
+Graduated with a Bachelor of Science in Computer Engineering from the University of Miami<br/>
 
     🔭 I’m currently working on a Bootloader supported through an Arduino microcontroller and making my own LLM model
 
